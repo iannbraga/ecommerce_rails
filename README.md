@@ -6,20 +6,20 @@
    - [ ] Sistema de cadastro e login para usuários.
    - [ ] Recuperação de senha e redefinição de senha.
 
-- [ ] 2. **Navegação de Produtos:**
+- [ ] **Navegação de Produtos:**
    - [ ] Página inicial exibindo produtos em destaque e promoções.
    - [ ] Categorias de produtos para facilitar a navegação.
    - [ ] Páginas individuais de produto com detalhes, preço e opções de compra.
 
-3. **Carrinho de Compras:**
-   - Adição de produtos ao carrinho de compras.
-   - Edição e remoção de itens do carrinho.
-   - Exibição do total da compra e opções de checkout.
+- [ ] **Carrinho de Compras:**
+   - [ ] Adição de produtos ao carrinho de compras.
+   - [ ] Edição e remoção de itens do carrinho.
+   - [ ] Exibição do total da compra e opções de checkout.
 
-4. **Processo de Compra:**
-   - Formulário de informações do cliente durante o checkout.
-   - Opções de pagamento, como cartão de crédito, PayPal, etc.
-   - Confirmação de pedido com detalhes e número de rastreamento.
+- [ ] **Processo de Compra:**
+   - [ ] Formulário de informações do cliente durante o checkout.
+   - [ ] Opções de pagamento, como cartão de crédito, PayPal, etc.
+   - [ ] Confirmação de pedido com detalhes e número de rastreamento.
 
 5. **Gerenciamento de Pedidos:**
    - Histórico de pedidos para usuários registrados.
